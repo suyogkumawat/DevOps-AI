@@ -1,6 +1,3 @@
-#setting up AI automation with terraform, you can build your infra
-https://www.brainboard.co/  
-
 #app development with ops functionality
 Qodo (formerly Codium) is an agentic code integrity platform for reviewing, testing, and 
 writing code, integrating AI across development workflows to strengthen code quality at every stage. 
@@ -8,3 +5,8 @@ Our agents are powered by a core platform that provides deep context awareness,
 enabling AI to understand the specific best practices of a codebase—and solve complex coding challenges more effectively.
 
 https://www.qodo.ai/get-started/  
+
+
+#setting up AI automation with terraform, you can build your infra (Prompt + OPs) everthing will be automated AI will create entire terraform code and apply that code as well
+BB earlier provides functionility to drag and drop the aws services, and it will create the code for you. But now it is integrated with AI now using just prompt everything will be taken care
+https://www.brainboard.co/  
